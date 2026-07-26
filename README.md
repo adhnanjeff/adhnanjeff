@@ -56,9 +56,10 @@
 
 ## 📊 stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=adhnanjeff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&custom_title=Adhnan%27s+GitHub+Stats" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhnanjeff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&custom_title=Adhnan%27s+GitHub+Stats" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhnanjeff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhnanjeff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
