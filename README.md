@@ -1,3 +1,8 @@
+<!--
+  GitHub Profile README — adhnanjeff
+  Setup checklist at the bottom of this file.
+-->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=hey%2C+I'm+Adhnan+Jeff+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Problem+Solver;Currently+shipping+ALIBI+%E2%80%94+a+noir+murder+game;Backend+by+day%2C+game+dev+by+night;Tamil+Nadu+State+Badminton+Champion+%F0%9F%8F%B8)](https://git.io/typing-svg)
@@ -7,37 +12,37 @@
 ---
 
 ```
-           ...... :::::.------=-::----:========-:..--::--:    adhnanjeff@github
-         ....:::::.:-::--========-.--::....::--=-: ..:---:    ─────────────────────────────────────────
-         .....:::::...---=========--            .:    ....    OS ............... macOS · Android · Linux
-   ..  ..     ...:::---===*=++++*+:               +++++++=    Location ......... Coimbatore, Tamil Nadu
-   .. :=+=----===++++++***#******* :.             :****+++    College .......... Sri Ramakrishna Engg. Co.
-   : ==+++=-====+++++*****#*****##:  ...           *******    Degree ........... B.Tech IT · 2022–2026
-   ::++++=*===++++*********#**##%*.  :.           .*******    GPA .............. 10.0 / 10.0 ⭐
+           ...... :::::.------=-::----:========-:..--::--:  adhnanjeff@github
+         ....:::::.:-::--========-.--::....::--=-: ..:---:  ─────────────────────────
+         .....:::::...---=========--            .:    ....  OS ....... macOS · Linux
+   ..  ..     ...:::---===*=++++*+:               +++++++=  Location .. Coimbatore
+   .. :=+=----===++++++***#******* :.             :****+++  College ... Sri Ramakrishna
+   : ==+++=-====+++++*****#*****##:  ...           *******  Degree .... B.Tech IT '26
+   ::++++=*===++++*********#**##%*.  :.           .*******  GPA ....... 10.0 / 10.0 ⭐
 ..:-:+++-++==+++********#*=====**+=+*.    ..      *#######
-   -:=-+-**:+++****++####-     -+-+=-:. ..::     #%%%%%%%#    ─────────────────────────────────────────
-  :++#*++##-*#####%%%%%%%*=++++*==. .:::---. . :%%%%%%%##*    Languages ........ C# · Java · Python
-   --+*+-+#====+==#######***###%+.   .::::::::=@@@@@@%%%+:    Frameworks ....... .NET · Spring Boot · Angular
- .:-=:**+**-=***::***##%%%%%%%@@+.....:::::.-%%##%@@@@#===    Architecture ..... Microservices · Distributed
-   .. +****.+++=-=+##%%%%%%%%%%%%%-.       :#%##==#%%#+.:-    Databases ........ PostgreSQL · MySQL · DynamoDB
-   .: .*++.    ....------=--===++=..      -*@==+*-===%*..:    Cloud ............ AWS · S3 · CI/CD · Git
-:..--   :-  ..  .. :    :=----=---=:  .=###*:=+#+*-:::*:.:    Streaming ........ Kafka · MongoDB · Flask
-.        :..:::.....    :=-      :@#+-        .+-=::.:+= .
-:: :-:---:-=+++++++++++*******+      .   .... :********+=:    ─────────────────────────────────────────
-==.=++++***=***##########%%%#=  .     .....   .#######+-*-    Intern @ ......... eProductivity Software
-=+=:***####+**######%%%%%%%#. +:              .%%%%%%@#+%=    Role ............. Software Engineer Intern
-*+*-+++*****=#####%%%%%%%%*                    %%%%%%%#*%*    Working on ....... MS Dynamics 365 · CorrFusion
-+***########*#%%%%#%%%#*#*                    #*+**+++=-==
-++****##%%%%%#@@%%%%%%%%%*                    %%%%%%%#**#*    ─────────────────────────────────────────
-*######%%%%####%%%%%%%%%%.                    %%%%%##%###*    Salesforce ....... Agentblazer 22,200+ pts 🌟
-*####***=#%%%=#%%%%%%%@@#                   *+=#%#%%%%###*    AWS .............. Cloud Practitioner (in prog)
-******#*+-.=*####%@@@%%@#                   +###%%%%#####*    JPMorgan ......... Virtual Internship ✓
-***####*-...:=+#%%%%%####*                 .#:+%%%%%%%%###
-*********.    .:-+*+---*##                   .#%%%%####***    ─────────────────────────────────────────
-++*#%%##+-::..    .:=*= #%+                  #%%%%%#######    Badminton ........ TN State Champion 🏸
-*******##@@%*---:    .:=+++-..  .   ..::    +%%%%%%#######    Hackathon ........ Team Lead · 1st place 🏆
-++**#%@%%%%%%+.-*#%*-    .:-===:    .:-    .#%%%##########
-%@#*++*****####++##%%+              .::    +##############    Building ......... ALIBI — noir murder game 🕵️
+   -:=-+-**:+++****++####-     -+-+=-:. ..::     #%%%%%%%#  ─────────────────────────
+  :++#*++##-*#####%%%%%%%*=++++*==. .:::---. . :%%%%%%%##*  Lang ...... C# · Java · Python
+   --+*+-+#====+==#######***###%+.   .::::::::=@@@@@@%%%+:  Backend ... .NET · Spring Boot
+ .:-=:**+**-=***::***##%%%%%%%@@+.....:::::.-%%##%@@@@#===  Frontend .. Angular · React
+   .. +****.+++=-=+##%%%%%%%%%%%%%-.       :#%##==#%%#+.:-  Data ...... PostgreSQL · MySQL
+   .: .*++.    ....------=--===++=..      -*@==+*-===%*..:  NoSQL ..... DynamoDB · MongoDB
+:..--   :-  ..  .. :    :=----=---=:  .=###*:=+#+*-:::*:.:  Cloud ..... AWS · S3 · CI/CD
+.        :..:::.....    :=-      :@#+-        .+-=::.:+= .  Stream .... Kafka · Flask
+:: :-:---:-=+++++++++++*******+      .   .... :********+=:
+==.=++++***=***##########%%%#=  .     .....   .#######+-*-  ─────────────────────────
+=+=:***####+**######%%%%%%%#. +:              .%%%%%%@#+%=  Intern .... eProductivity
+*+*-+++*****=#####%%%%%%%%*                    %%%%%%%#*%*  Role ...... SWE Intern
++***########*#%%%%#%%%#*#*                    #*+**+++=-==  Stack ..... Dynamics 365
+++****##%%%%%#@@%%%%%%%%%*                    %%%%%%%#**#*
+*######%%%%####%%%%%%%%%%.                    %%%%%##%###*  ─────────────────────────
+*####***=#%%%=#%%%%%%%@@#                   *+=#%#%%%%###*  Salesforce  Agentblazer 22k+ 🌟
+******#*+-.=*####%@@@%%@#                   +###%%%%#####*  AWS ....... Cloud Practitioner
+***####*-...:=+#%%%%%####*                 .#:+%%%%%%%%###  JPMorgan .. Virtual Intern ✓
+*********.    .:-+*+---*##                   .#%%%%####***
+++*#%%##+-::..    .:=*= #%+                  #%%%%%#######  ─────────────────────────
+*******##@@%*---:    .:=+++-..  .   ..::    +%%%%%%#######  Badminton . TN State Champ 🏸
+++**#%@%%%%%%+.-*#%*-    .:-===:    .:-    .#%%%##########  Hackathon . 1st place 🏆
+%@#*++*****####++##%%+              .::    +##############  Building .. ALIBI 🕵️
 ```
 
 ---
@@ -58,7 +63,6 @@
 
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhnanjeff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&custom_title=Adhnan%27s+GitHub+Stats" />
 &nbsp;
-
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhnanjeff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
@@ -73,7 +77,7 @@
 
 ## 🏆 trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adhnanjeff&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=adhnanjeff&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
