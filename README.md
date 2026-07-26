@@ -1,34 +1,161 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk)
-<h1 align="center">Hi 👋, I'm Adhnan Jeff</h1> 
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!--
+  GitHub Profile README — adhnanjeff
+  Setup checklist at the bottom of this file.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhnanjeff&label=Profile%20views&color=0e75b6&style=flat" alt="adhnanjeff" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhnanjeff" alt="adhnanjeff" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=hey%2C+I'm+Adhnan+Jeff+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Problem+Solver;Currently+shipping+ALIBI+%E2%80%94+a+noir+murder+game;Backend+by+day%2C+game+dev+by+night;Tamil+Nadu+State+Badminton+Champion+%F0%9F%8F%B8)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/adhnanjeff26" target="blank"><img src="https://img.shields.io/twitter/follow/adhnanjeff26?logo=twitter&style=for-the-badge" alt="adhnanjeff26" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **React**
+---
 
-- 📫 How to reach me **adhnanjeffms@gmail.com**
+```
+-++-:::::------------======+***++++*************++**#*++++++++++++=::::-=++==    adhnanjeff@github
+-+=--------------:------:::-+*=-:-----------====+++*#*++++******+++++++++++++    ───────────────────────────────────────────
+-+=--===================--:-+*+-------------::::::-*#+-------------=====+++++    OS ............... macOS · Android · Linux
+-======+=================-:-+*+==========+++++=----*#+--------::::::::::=+-::    Location ......... Coimbatore, Tamil Nadu
+=++**######*************++==+**++++++++=++++++==-:-+#+=====++=========-:=+---    College .......... Sri Ramakrishna Engg. Co.
+*########################********############***++=+*+++++++++========::-+=-=    Degree ........... B.Tech IT · 2022–2026
+**#########################**########**####********+++++**##%%%%%%%##+===+==*    GPA .............. 10.0 / 10.0 ⭐
+**********+**#***+**#######################*******+*****#**++**##%%%%%#==+=--
+-------=++**##*++*#%%%##%%%###%%%%%%%%%##########*****************####%###*=-    ───────────────────────────────────────────
+-==---=++*##**+*%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#######*********++********+    Languages ........ C# · Java · Python
+=+++=====+++=++++++++*******#########*##################%%##########****+****    Frameworks ....... .NET · Spring Boot · Angular
+-=+====---=====---=======---++===----===+=======+++*#*++++++=+++++++***++****    Architecture ..... Microservices · Dist. Systems
+-=+==----=======-========::=--::::::::::--=-:::-===*#+============-::::-=+=--    Databases ........ PostgreSQL · MySQL · DynamoDB
+-++=======================-----:::--:::::::-#*--===*#+============-....:=+=--    Cloud & DevOps ... AWS · S3 · CI/CD · Git
+=+++=============++======-:----:::::.::.:-**+*++===+*+============------=+=--    Streaming ........ Kafka · MongoDB · Flask
+-=+=====-===============-::-::::::....::::=*+*++===+**+========++========+===
+==++===--------=+++==-=---::::::::::::---:=#*+++---+*+=--------==----=====-:-    ───────────────────────────────────────────
+-=++++=--------=+++=====--:::::::.:-===--:-#**+++--=+*++=-::------------===::    Intern @ ........ eProductivity Software
+-=+====--::::--==++++==--::::::::::-====--:****++-:--===------==----==----===    Role ............ Software Engineer Intern
+-=+=====-:::---==+====-----:::::-----===---+*****-::-====------=-::-------===    Salesforce ....... Agentblazer · 22,200+ pts 🌟
+:--------------==--:::=-::=-:--------==---=-******-+--===----------:::-=+**+=    AWS .............. Cloud Practitioner (in prog)
+--------------==-::..:-=-:::===+++===+++===--=+-::::=---======--==-:----=+***    Wins ............. TN State Badminton 🏸
+===**+---============---=+=:==++++++++++==----::-===-*##++**++++*#+---::-+#%%    Wins ............. Hackathon 1st place 🏆
+*####-::-==--==-==-------**=-==+++=----:-*#*+==***++++##*+++++++**+-::::-*%%%    Currently ........ Building ALIBI 🕵️
++#%#*=-====--=====-------##-=====+=+====+#######****++***++**+++++=-::::-*%##
++####+-====--=+++==---+#%%#--=++=-===----+##*#*#****++++**###***+===++-:-####
++**#*-:--==-=+======*#%%%%*=:-=+==---:=-=-=+*********+++++####*##+=*##=-=#%%#
+-:-*=:::-====+=--+%%#%%%*+*#--++=-=++=+=+++*********+++++++*#####*+*##+--*%%#
+=-=+:::-=****+#%%%#####%#***+*====++*#*+****#***+*+*+++++++++*###**###*--=#%#
+-::::::-=###%%#%####%######**##*=+*##***##*#**#*****++++++++++*%%###%%#+-=*%#
+:::::::-=#%%%#%#############*#***###***#***#*#**#+#*+++++=+++++*%%%%%%#+==*##
+-:::-=-+#%%%#########%#%#######*###*#*#**##**#**#+**++++++++++++###%%%#*+****
+-:::==+#%%%##*#########*#*####*########*##**#*+*#+=*++++++====++##%%%%%%%%%%%
+---====*#%##*##########%#####*#*#####***#***#++##+*#++++++++====%%%%%%%%%%%%%
+-*+=+====%#**##*##########%##*##*####+#****#*+*#****#=#+++++===*%%%%%%%%%%%%%
+=#*=+==+*%##***+#*#############**#%*#*#**###++##******+#++++++%%%%%%%%%%%%%%%
+=*+=+==*#####***+=+#######*#***#**####***#**+*##***+#%%%%%%%%%%%%%%%%%%%%%%%%
+#%%%%%%%###***#**+-*###*##****%***####**##**+##**+***%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%#####*#***+*##*#%****##***###*###***+##******%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%######**++++######*+**##***###*%#***+##*******%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%####****++#%#%%%#****###+**###*#*#***#********%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%####***++*%%#####*#*#%#***##*##**#+*#******#*#%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%####***++*%%####***#%#*+**##%%#*%#+*#*********%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%#***++++%%%####***#%#**+*########*+##*********%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%#++++===+#%%########%#**+*###*##%#***%*********##%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%#+++=====*%%#######%**+**###*##%#***##**********#%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%++++=====%###%%%%***#*###***##%#**##**********#%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%#+==++===#%%#########*#*#*##%#%*+##************#%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%*==+++==#%%%%%##*####%##**#%%#**##************#%%%%%%%%%%%%%%%%%%%%%%
+=+#%%%%%%#+==++==#%%%%%##*##*###*%##%**##*****#*#*###**#%%%%%%%%%%%%%%%%%%%%%
+:-+%%%%%%%%+=++++-%***##%%######*####+#*#****#*#*#*####*#%%%%%%%%%%%%%%%%%%%%
+-=***#%%%%%%#=+++++++###****##%%%%###***#*****#***+++++**#%%%%%%%%%%%%%%%%%%%
+******%%%%%###=+++++#%#%#####********+*+*+*********#####**#%%%%%%%%%%%%%%%%%%
+********++***++==+*###***##**********+*******######**+*####%%%%%%%%%%%%%%%%%%
+*#**++++--=+***+=*#####*##*#######*#########*#*******###*##%%%%%%%%%%%%%%%%%%
+%%%#*++=+*****##+%#%%%%#########*+*###***+#*#########*#*###%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%####%#####*+****###*+*#*#########*#*###%%%%%%%%%%%%%%%%%%%
+```
 
-- ⚡ Fun fact **I am a National Badminton player**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adhnanjeff26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhnanjeff26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adhnan jeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhnan jeff" height="30" width="40" /></a>
-<a href="https://fb.com/adhnan jeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adhnan jeff" height="30" width="40" /></a>
-<a href="https://instagram.com/adhnanjeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhnanjeff" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adhnanjeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhnanjeff" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## ⚡ tech stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhnanjeff&show_icons=true&locale=en&layout=compact" alt="adhnanjeff" /></p>
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,spring,dotnet,angular,react,kafka,mongodb,mysql,postgres,aws,docker,git,github,androidstudio&perline=8)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhnanjeff&show_icons=true&locale=en" alt="adhnanjeff" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhnanjeff&" alt="adhnanjeff" /></p>
+---
+
+<div align="center">
+
+## 📊 stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=adhnanjeff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&custom_title=Adhnan%27s+GitHub+Stats" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhnanjeff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adhnanjeff&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adhnanjeff&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/adhnanjeff/adhnanjeff/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhnanjeff/adhnanjeff/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adhnanjeff/adhnanjeff/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 activity
+
+[![Adhnan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adhnanjeff&theme=tokyo-night&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔨 what I'm building
+
+| Project | What | Stack |
+|---|---|---|
+| **ALIBI** | Daily noir murder-mystery — AI detective tracks every word you say | Next.js · Supabase · Claude API |
+| **Vehicle Security + ETL** | 1000+ CAN msg/sec · 99.7% attack detection · sub-100ms anomaly detection | Python · Kafka · MongoDB · scikit-learn |
+| **Split Payment System** | ACID-compliant ledger, 70% fewer reconciliation errors | Java · Spring Boot · PostgreSQL |
+| **Badminton Academy Platform** | Full-stack platform serving 200+ students with scheduling + skill tracking | Spring Boot · Angular · MySQL · S3 |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adhnanjeff&color=blueviolet&style=flat-square&label=profile+views" />
+
+**[linkedin](https://linkedin.com/in/adhnanjeff)** &nbsp;·&nbsp; **[email](mailto:adhnanjeffms@gmail.com)** &nbsp;·&nbsp; **[github](https://github.com/adhnanjeff)**
+
+*Tamil Nadu State Badminton Champion 🏸 &nbsp;·&nbsp; Hackathon Winner 🏆 &nbsp;·&nbsp; Currently breaking things and fixing them faster*
+
+</div>
+
+---
