@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="467" viewBox="0 0 880 467" role="img" aria-labelledby="t d">
+<title id="t">About Adhnan Jeff</title><desc id="d">An ASCII portrait next to a short fact sheet: location, college, languages, stack, internship, certifications and badminton and hackathon wins.</desc>
+<style>
+  text { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+  .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .muted { fill: #8b98a9; }
+  .gold { fill: #C9A84C; }
+
+  @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+  .art { font-size: 10.5px; fill: #8b98a9; animation: fadein .5s both; }
+  .fade { animation: fadein .5s both; }
+  .head { font-size: 14px; font-weight: 700; fill: #C9A84C; }
+  .row { font-size: 12.5px; }
+  .key { font-size: 12.5px; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="879" height="466" rx="14" fill="#0d1117" stroke="#263041"/>
+<text class="mono art" xml:space="preserve" x="36" y="34" style="animation-delay:0.250s">           ...... :::::.------=-::----:========-:..--::--:</text>
+<text class="mono art" xml:space="preserve" x="36" y="47" style="animation-delay:0.295s">         ....:::::.:-::--========-.--::....::--=-: ..:---:</text>
+<text class="mono art" xml:space="preserve" x="36" y="60" style="animation-delay:0.340s">         .....:::::...---=========--            .:    ....</text>
+<text class="mono art" xml:space="preserve" x="36" y="73" style="animation-delay:0.385s">   ..  ..     ...:::---===*=++++*+:               +++++++=</text>
+<text class="mono art" xml:space="preserve" x="36" y="86" style="animation-delay:0.430s">   .. :=+=----===++++++***#******* :.             :****+++</text>
+<text class="mono art" xml:space="preserve" x="36" y="99" style="animation-delay:0.475s">   : ==+++=-====+++++*****#*****##:  ...           *******</text>
+<text class="mono art" xml:space="preserve" x="36" y="112" style="animation-delay:0.520s">   ::++++=*===++++*********#**##%*.  :.           .*******</text>
+<text class="mono art" xml:space="preserve" x="36" y="125" style="animation-delay:0.565s">..:-:+++-++==+++********#*=====**+=+*.    ..      *#######</text>
+<text class="mono art" xml:space="preserve" x="36" y="138" style="animation-delay:0.610s">   -:=-+-**:+++****++####-     -+-+=-:. ..::     #%%%%%%%#</text>
+<text class="mono art" xml:space="preserve" x="36" y="151" style="animation-delay:0.655s">  :++#*++##-*#####%%%%%%%*=++++*==. .:::---. . :%%%%%%%##*</text>
+<text class="mono art" xml:space="preserve" x="36" y="164" style="animation-delay:0.700s">   --+*+-+#====+==#######***###%+.   .::::::::=@@@@@@%%%+:</text>
+<text class="mono art" xml:space="preserve" x="36" y="177" style="animation-delay:0.745s"> .:-=:**+**-=***::***##%%%%%%%@@+.....:::::.-%%##%@@@@#===</text>
+<text class="mono art" xml:space="preserve" x="36" y="190" style="animation-delay:0.790s">   .. +****.+++=-=+##%%%%%%%%%%%%%-.       :#%##==#%%#+.:-</text>
+<text class="mono art" xml:space="preserve" x="36" y="203" style="animation-delay:0.835s">   .: .*++.    ....------=--===++=..      -*@==+*-===%*..:</text>
+<text class="mono art" xml:space="preserve" x="36" y="216" style="animation-delay:0.880s">:..--   :-  ..  .. :    :=----=---=:  .=###*:=+#+*-:::*:.:</text>
+<text class="mono art" xml:space="preserve" x="36" y="229" style="animation-delay:0.925s">.        :..:::.....    :=-      :@#+-        .+-=::.:+= .</text>
+<text class="mono art" xml:space="preserve" x="36" y="242" style="animation-delay:0.970s">:: :-:---:-=+++++++++++*******+      .   .... :********+=:</text>
+<text class="mono art" xml:space="preserve" x="36" y="255" style="animation-delay:1.015s">==.=++++***=***##########%%%#=  .     .....   .#######+-*-</text>
+<text class="mono art" xml:space="preserve" x="36" y="268" style="animation-delay:1.060s">=+=:***####+**######%%%%%%%#. +:              .%%%%%%@#+%=</text>
+<text class="mono art" xml:space="preserve" x="36" y="281" style="animation-delay:1.105s">*+*-+++*****=#####%%%%%%%%*                    %%%%%%%#*%*</text>
+<text class="mono art" xml:space="preserve" x="36" y="294" style="animation-delay:1.150s">+***########*#%%%%#%%%#*#*                    #*+**+++=-==</text>
+<text class="mono art" xml:space="preserve" x="36" y="307" style="animation-delay:1.195s">++****##%%%%%#@@%%%%%%%%%*                    %%%%%%%#**#*</text>
+<text class="mono art" xml:space="preserve" x="36" y="320" style="animation-delay:1.240s">*######%%%%####%%%%%%%%%%.                    %%%%%##%###*</text>
+<text class="mono art" xml:space="preserve" x="36" y="333" style="animation-delay:1.285s">*####***=#%%%=#%%%%%%%@@#                   *+=#%#%%%%###*</text>
+<text class="mono art" xml:space="preserve" x="36" y="346" style="animation-delay:1.330s">******#*+-.=*####%@@@%%@#                   +###%%%%#####*</text>
+<text class="mono art" xml:space="preserve" x="36" y="359" style="animation-delay:1.375s">***####*-...:=+#%%%%%####*                 .#:+%%%%%%%%###</text>
+<text class="mono art" xml:space="preserve" x="36" y="372" style="animation-delay:1.420s">*********.    .:-+*+---*##                   .#%%%%####***</text>
+<text class="mono art" xml:space="preserve" x="36" y="385" style="animation-delay:1.465s">++*#%%##+-::..    .:=*= #%+                  #%%%%%#######</text>
+<text class="mono art" xml:space="preserve" x="36" y="398" style="animation-delay:1.510s">*******##@@%*---:    .:=+++-..  .   ..::    +%%%%%%#######</text>
+<text class="mono art" xml:space="preserve" x="36" y="411" style="animation-delay:1.555s">++**#%@%%%%%%+.-*#%*-    .:-===:    .:-    .#%%%##########</text>
+<text class="mono art" xml:space="preserve" x="36" y="424" style="animation-delay:1.600s">%@#*++*****####++##%%+              .::    +##############</text>
+<text class="mono fade head" x="454.59999999999997" y="34" style="animation-delay:0.250s">adhnanjeff@github</text>
+<rect class="fade" x="454.59999999999997" y="40" width="250" height="1" fill="#263041" style="animation-delay:0.295s"/>
+<text class="fade row" x="454.59999999999997" y="60" style="animation-delay:0.340s"><tspan class="muted key">OS</tspan><tspan x="546.5999999999999">macOS · Linux</tspan></text>
+<text class="fade row" x="454.59999999999997" y="73" style="animation-delay:0.385s"><tspan class="muted key">Location</tspan><tspan x="546.5999999999999">Coimbatore</tspan></text>
+<text class="fade row" x="454.59999999999997" y="86" style="animation-delay:0.430s"><tspan class="muted key">College</tspan><tspan x="546.5999999999999">Sri Ramakrishna</tspan></text>
+<text class="fade row" x="454.59999999999997" y="99" style="animation-delay:0.475s"><tspan class="muted key">Degree</tspan><tspan x="546.5999999999999">B.Tech IT '26</tspan></text>
+<text class="fade row" x="454.59999999999997" y="112" style="animation-delay:0.520s"><tspan class="muted key">GPA</tspan><tspan x="546.5999999999999">10.0 / 10.0</tspan></text>
+<rect class="fade" x="454.59999999999997" y="131" width="250" height="1" fill="#263041" style="animation-delay:0.610s"/>
+<text class="fade row" x="454.59999999999997" y="151" style="animation-delay:0.655s"><tspan class="muted key">Lang</tspan><tspan x="546.5999999999999">C# · Java · Python</tspan></text>
+<text class="fade row" x="454.59999999999997" y="164" style="animation-delay:0.700s"><tspan class="muted key">Backend</tspan><tspan x="546.5999999999999">.NET · Spring Boot</tspan></text>
+<text class="fade row" x="454.59999999999997" y="177" style="animation-delay:0.745s"><tspan class="muted key">Frontend</tspan><tspan x="546.5999999999999">Angular · React</tspan></text>
+<text class="fade row" x="454.59999999999997" y="190" style="animation-delay:0.790s"><tspan class="muted key">Data</tspan><tspan x="546.5999999999999">PostgreSQL · MySQL</tspan></text>
+<text class="fade row" x="454.59999999999997" y="203" style="animation-delay:0.835s"><tspan class="muted key">NoSQL</tspan><tspan x="546.5999999999999">DynamoDB · MongoDB</tspan></text>
+<text class="fade row" x="454.59999999999997" y="216" style="animation-delay:0.880s"><tspan class="muted key">Cloud</tspan><tspan x="546.5999999999999">AWS · S3 · CI/CD</tspan></text>
+<text class="fade row" x="454.59999999999997" y="229" style="animation-delay:0.925s"><tspan class="muted key">Stream</tspan><tspan x="546.5999999999999">Kafka · Flask</tspan></text>
+<rect class="fade" x="454.59999999999997" y="248" width="250" height="1" fill="#263041" style="animation-delay:1.015s"/>
+<text class="fade row" x="454.59999999999997" y="268" style="animation-delay:1.060s"><tspan class="muted key">Intern</tspan><tspan x="546.5999999999999">eProductivity</tspan></text>
+<text class="fade row" x="454.59999999999997" y="281" style="animation-delay:1.105s"><tspan class="muted key">Role</tspan><tspan x="546.5999999999999">SWE Intern</tspan></text>
+<text class="fade row" x="454.59999999999997" y="294" style="animation-delay:1.150s"><tspan class="muted key">Stack</tspan><tspan x="546.5999999999999">Dynamics 365</tspan></text>
+<rect class="fade" x="454.59999999999997" y="313" width="250" height="1" fill="#263041" style="animation-delay:1.240s"/>
+<text class="fade row" x="454.59999999999997" y="333" style="animation-delay:1.285s"><tspan class="muted key">Salesforce</tspan><tspan x="546.5999999999999">Agentblazer 22k+</tspan></text>
+<text class="fade row" x="454.59999999999997" y="346" style="animation-delay:1.330s"><tspan class="muted key">AWS</tspan><tspan x="546.5999999999999">Cloud Practitioner</tspan></text>
+<text class="fade row" x="454.59999999999997" y="359" style="animation-delay:1.375s"><tspan class="muted key">JPMorgan</tspan><tspan x="546.5999999999999">Virtual Intern</tspan></text>
+<rect class="fade" x="454.59999999999997" y="378" width="250" height="1" fill="#263041" style="animation-delay:1.465s"/>
+<text class="fade row" x="454.59999999999997" y="398" style="animation-delay:1.510s"><tspan class="muted key">Badminton</tspan><tspan x="546.5999999999999">TN State Champ</tspan></text>
+<text class="fade row" x="454.59999999999997" y="411" style="animation-delay:1.555s"><tspan class="muted key">Hackathon</tspan><tspan x="546.5999999999999">1st place</tspan></text>
+<text class="fade row" x="454.59999999999997" y="424" style="animation-delay:1.600s"><tspan class="muted key">Building</tspan><tspan x="546.5999999999999">ALIBI</tspan></text>
+
+</svg>

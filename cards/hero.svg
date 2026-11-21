@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-labelledby="t d">
+<title id="t">Adhnan Jeff</title><desc id="d">Software engineer, builder and problem solver. Currently shipping ALIBI, a noir murder game.</desc>
+<style>
+  text { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+  .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .muted { fill: #8b98a9; }
+  .gold { fill: #C9A84C; }
+
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  @keyframes draw { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes cyc { 0% { opacity: 0; transform: translateY(8px); } 3% { opacity: 1; transform: none; } 17% { opacity: 1; transform: none; } 20% { opacity: 0; transform: translateY(-8px); } 100% { opacity: 0; } }
+  .name { font-size: 46px; font-weight: 700; letter-spacing: -1px; animation: rise .9s cubic-bezier(.2,.7,.2,1) both; }
+  .rule { transform-origin: 40px 0; transform-box: fill-box; animation: draw 1s .5s cubic-bezier(.2,.7,.2,1) both; }
+  .tag { font-size: 20px; font-weight: 500; opacity: 0; animation: cyc 15s infinite; }
+  .tag.first { opacity: 1; }
+  .kick { font-size: 12px; letter-spacing: .12em; text-transform: uppercase; animation: rise .8s .1s both; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="879" height="199" rx="14" fill="#0d1117" stroke="#263041"/>
+<text class="kick mono gold" x="40" y="52">adhnanjeff / github</text>
+<text class="name" x="40" y="108">Adhnan Jeff</text>
+<rect class="rule" x="40" y="126" width="120" height="3" rx="1.5" fill="#C9A84C"/>
+<text class="tag first" x="40" y="168" style="animation-delay:0s">hey, I'm Adhnan Jeff</text>
+<text class="tag" x="40" y="168" style="animation-delay:3s">Software engineer, builder, problem solver</text>
+<text class="tag" x="40" y="168" style="animation-delay:6s">Shipping ALIBI, a noir murder game</text>
+<text class="tag" x="40" y="168" style="animation-delay:9s">Backend by day, game dev by night</text>
+<text class="tag" x="40" y="168" style="animation-delay:12s">Tamil Nadu State badminton champion</text>
+</svg>
