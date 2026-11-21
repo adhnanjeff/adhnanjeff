@@ -39,8 +39,8 @@
 
 ### Activity
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhnanjeff&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=C9A84C&icon_color=C9A84C&text_color=c9d1d9&custom_title=Adhnan%27s+GitHub+Stats" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhnanjeff&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=C9A84C&text_color=c9d1d9" alt="Most used languages" />
+<img src="./cards/stats.svg" alt="GitHub stats: commits, pull requests, issues, stars, followers and repositories." width="49%" />
+<img src="./cards/langs.svg" alt="Most used languages." width="49%" />
 
 <br/>
 
@@ -67,4 +67,6 @@
   1. Put README.md and the cards/ folder in the repo named exactly like your username (adhnanjeff/adhnanjeff).
   2. Keep the snake workflow you already have; it writes the "output" branch the last picture reads from.
   3. To change a card, edit build.mjs (or src/neofetch.txt) and run: node build.mjs
+  4. stats.svg and langs.svg are drawn daily by .github/workflows/profile-cards.yml (run it once by hand
+     from the Actions tab after pushing). Locally: GITHUB_TOKEN=... node stats.mjs
 -->

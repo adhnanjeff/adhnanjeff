@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="232" viewBox="0 0 430 232" role="img" aria-labelledby="t d">
+<title id="t">GitHub stats for adhnanjeff</title><desc id="d">Commits (past year): 184. Pull requests: 15. Issues: 1. Stars earned: 0. Followers: 13. Public repositories: 31</desc>
+<style>
+  text { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+  .muted { fill: #8b98a9; }
+
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  .r { animation: rise .6s both; } .t { font-size: 15px; font-weight: 600; fill: #C9A84C; } .l { font-size: 13px; } .v { font-size: 15px; font-weight: 700; text-anchor: end; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="429" height="231" rx="14" fill="#0d1117" stroke="#263041"/>
+<text class="t" x="28" y="38">adhnanjeff's GitHub stats</text>
+<g class="r" style="animation-delay:0.10s"><text class="l muted" x="28" y="72">Commits (past year)</text><text class="v" x="402" y="72">184</text></g>
+<g class="r" style="animation-delay:0.18s"><text class="l muted" x="28" y="98">Pull requests</text><text class="v" x="402" y="98">15</text></g>
+<g class="r" style="animation-delay:0.26s"><text class="l muted" x="28" y="124">Issues</text><text class="v" x="402" y="124">1</text></g>
+<g class="r" style="animation-delay:0.34s"><text class="l muted" x="28" y="150">Stars earned</text><text class="v" x="402" y="150">0</text></g>
+<g class="r" style="animation-delay:0.42s"><text class="l muted" x="28" y="176">Followers</text><text class="v" x="402" y="176">13</text></g>
+<g class="r" style="animation-delay:0.50s"><text class="l muted" x="28" y="202">Public repositories</text><text class="v" x="402" y="202">31</text></g>
+</svg>
